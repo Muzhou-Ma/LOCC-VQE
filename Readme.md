@@ -5,7 +5,7 @@ This is the Python-based repository for *Variational LOCC-assisted quantum circu
 ### LOCC-VQE scheme
 <div style="text-align:center;">
 <p>
-    <img src="https://i.postimg.cc/43tgX7Nh/Fig-1.jpg">
+    <img src="https://i.postimg.cc/Xv735jWK/Fig-1-upupupdate.jpg">
 </p>
 </div>
 <p>
